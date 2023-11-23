@@ -13,4 +13,3 @@ cubica = round(numero**(1/3), 4)
 
 print("Esta es la raiz cuadrada del numero que introdujo ", cuadrado)
 print("Esta es la raiz cubica del numero que introdujo ", cubica)
-
