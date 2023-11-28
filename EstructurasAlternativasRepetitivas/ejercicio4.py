@@ -6,8 +6,6 @@
 
 import random
 import os
-import sys
-
 
 mayor = 0
 cero = 0
