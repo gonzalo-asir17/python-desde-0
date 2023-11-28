@@ -12,7 +12,7 @@ cero = 0
 menor = 0
 
 result = random.randint(5, 15)
-print
+
 for i in range(result):
     
     numero = int(input("Introducir un numero "))
