@@ -13,7 +13,7 @@ os.system("clear")
 
 for i in range(1, 13):
     print("Mes ", i)
-    mes = 0  # Reset the monthly savings to 0 at the beginning of each month
+    mes = 0  
     for j in range(1, 5):
         print("Semana ", j)
         dinero = float(input("Introduzca el dinero que ha ahorrado hoy "))

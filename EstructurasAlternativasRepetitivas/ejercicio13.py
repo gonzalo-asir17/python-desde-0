@@ -17,5 +17,6 @@ for i in range(1, 7):
     print("")
 print("Ha trabajado", sueldo, "horas esta semana")
 print("Su sueldo es de", sueldo * 10, "€")
-sys.exit()
 print("Fin del programa")
+sys.exit()
+
