@@ -22,13 +22,13 @@ edad_max = max(edades)
 #Alumnos mayores de edad
 print("Alumnos mayores de edad")
 print("=======================")
-for nombre,edad in zip(nombre,edades):
+for nombre,edad in zip(nombres,edades):
     if edad >= 18:
         print(nombre)
 
 #Alumnos mayores
 print("Alumnos mayores")
 print("===============")
-for nombre,edad in zip(nombre,edades):
+for nombre,edad in zip(nombres,edades):
     if edad == edad_max:
         print(nombre)
